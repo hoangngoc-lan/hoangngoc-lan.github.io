@@ -1,0 +1,128 @@
+*{
+	margin: 0;
+	padding: 0;
+ 
+
+}
+.row-two{
+	background-image:url(.../img/bg.jpg);
+	width: 100%;
+	height: 200px;
+    clear: both;
+
+}
+.row-one{
+    width: 100%;
+    height:60px;
+    clear: both;
+
+}
+.header-left{
+    width: 50%;
+    height: 100%;
+   
+    float: left;
+}
+.header-right{
+    width: 49%;
+    height: 100%;
+
+    float: left;
+
+}
+.header-left img{
+    width: 50%;
+    height: 100%;
+
+}
+.header-right ul{
+    list-style-type: none;
+}
+.header-right li{
+    float: left;
+    list-style-type: none;
+    margin: 15px;
+}
+.header-right a{
+    color:red;
+    
+}
+.row-three{
+    background-color:#F2F2F2;
+    width: 100%;
+    height: 800px;
+    clear: both;
+
+}
+.menu{
+    width: 80%;
+    height: 60%;
+    background-color:#F2F2F2;
+    margin-left: 11%;
+    margin-top: -100px;
+   float:left;
+   clear: both;
+
+    
+    
+}
+.row-three{
+    float: left;
+    clear: both;
+   
+}
+.product-item{
+    width:48%;
+    height: 25%;
+    background-color:white;
+    border-radius:7px;
+    float: left;
+    margin-right: 16px;
+    margin-top: 20px;
+}
+.product-img{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.img1{
+    width:25%;
+    height:100%;
+    margin-left: 10px;
+    background-color:white;
+    float:left;
+}
+.img1 img{
+    width: 65%;
+    height: 40%;
+    border-radius:10px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.ifor{
+    width:60%;
+    height: 100%;
+    background-color:white;
+    float: left;
+    font-size: 12px;
+}
+.ifor button{
+    background-color: rgb(233, 72, 43);
+    color: whitesmoke;
+    border: none;
+    width: 70px;
+    border-radius: 3px;
+    height: 20px;
+}
+.ifor a{
+    color: #BDBDBD;
+
+}
+.row-four{
+    width:100%;
+    height:200px;
+    background-color: blue;
+  
+
+}
